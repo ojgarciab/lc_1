@@ -1,2 +1,3 @@
-# lc_1
-Problemas de C
+# Repositorio de ayuda para L.C. (Nº1)
+
+Consultas derelacionadas con la programación.
